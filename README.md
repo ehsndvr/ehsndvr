@@ -76,12 +76,13 @@ class Ehsan:
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ehsndvr&show_icons=true&count_private=true&hide_border=false&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=050705&border_color=1c2620&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsndvr&theme=dark&hide_border=false&background=050705&border=1c2620&stroke=1c2620&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=e8ffe8&sideNums=e8ffe8&dates=5b6b5f" alt="streak" />
+  <!-- trophy row — theme=matrix keeps it green/DedSec; reliable server -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ehsndvr&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophies" />
 
-  <br/>
+  <br/><br/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsndvr&layout=compact&hide_border=false&title_color=00FF41&text_color=c9d1d9&bg_color=050705&border_color=1c2620&langs_count=8" alt="top langs" />
+  <!-- streak card (reliable server) -->
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsndvr&theme=dark&hide_border=false&background=050705&border=1c2620&stroke=1c2620&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=e8ffe8&sideNums=e8ffe8&dates=5b6b5f" alt="streak" />
 
 </div>
 
@@ -106,25 +107,7 @@ class Ehsan:
 <!-- ===================== OPERATIONS ===================== -->
 ## `⌈ OPERATIONS ⌋` `// pinned`
 
-<div align="center">
-
-  <a href="https://github.com/ehsndvr/DiscordTokenLogin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehsndvr&repo=DiscordTokenLogin&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=050705&border_color=1c2620" alt="DiscordTokenLogin" />
-  </a>
-  <a href="https://github.com/ehsndvr/ProProfile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehsndvr&repo=ProProfile&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=050705&border_color=1c2620" alt="ProProfile" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/ehsndvr/iamehsandvr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehsndvr&repo=iamehsandvr&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=050705&border_color=1c2620" alt="iamehsandvr" />
-  </a>
-  <a href="https://github.com/ehsndvr/balegram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehsndvr&repo=balegram&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=050705&border_color=1c2620" alt="balegram" />
-  </a>
-
-</div>
+> Latest ops are pinned right below this README ↓ &nbsp; `DiscordTokenLogin` · `ProProfile` · `iamehsandvr` · `balegram`
 
 <br/>
 
